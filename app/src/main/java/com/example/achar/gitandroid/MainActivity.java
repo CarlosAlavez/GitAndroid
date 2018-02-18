@@ -16,7 +16,7 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
     Button saludo, saludo2, bimagen;
-    TextView Texto;
+    TextView Texto, Texto2;
     ImageView imagen;
     private  Bitmap imagenDescargada;
 
